@@ -2,15 +2,21 @@
 title: "Research"
 layout: single
 permalink: /research/
-# collection: research
-# entries_layout: grid
+<!-- header:
+  image: /assets/images/a.jpg
+  caption: "[a.](/assets/documents/a.pdf)" -->
 ---
 
-About my research
+TBC
 
-## Research 1
-1
+## Research I
+<div style="width:350px; float: left">
 
-## Research 2
-b
+</div>
+a
 
+## Research II
+<div style="width:350px; float: right">
+
+</div>
+b    
