@@ -74,7 +74,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : SYD0JgIlJwQXb6L6lDyBaRuknpto7FAtNLQEM7RqswU
+google_site_verification : 
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -94,42 +94,27 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-# Analytics
-analytics:
-  provider               : google-gtag # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : UA-147237792-1
-    anonymize_ip         : false # false (default)
-    optimize_id          : GTM-WV93XGT
-    allow_google_signals : false
-
 
 # Site Author
 author:
   name             : "Yueyang Lu"
-  avatar           : "/assets/images/kbosko-color-small.jpg"
-  bio              : "From Political Science to Data Engineering"
-  location         : "San Francisco Bay Area (CA)"
+  avatar           : "/assets/images/myprofile.jpg"
+  bio              : "Ph.D. student in ocean eddy-induced transport"
+  location         : "Miami, FL"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:kbosko@cross-validated.com
+      url: "mailto:yueyanglu0622@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/kbosko3"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://yueyanglu.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/k-bosko/"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/k-bosko/"
+      url: "https://github.com/yueyanglu"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/yueyanglu"
 
 # Site Footer
 # footer:
@@ -308,28 +293,3 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-
-picture:
-  source: "assets/images" #"assets/images/_originals"
-  output: "assets/images"
-  markup: "picture"
-  presets:
-    hero:
-      attr:
-        class: "page__hero-image"
-        itemprop: "image"
-      ppi: [1]
-      source_1600:
-        media: "(min-width: 1600px)"
-        width: "1600"
-      source_1024:
-        media: "(min-width: 1024px)"
-        width: "1024"
-      source_768:
-        media: "(min-width: 768px)"
-        width: "768"
-      source_600:
-        media: "(min-width: 600px)"
-        width: "600"
-      source_default:
-        width: "320"
