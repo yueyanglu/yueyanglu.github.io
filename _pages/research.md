@@ -2,9 +2,6 @@
 title: "Research"
 layout: single
 permalink: /research/
-<!-- header:
-  image: /assets/images/a.jpg
-  caption: "[a.](/assets/documents/a.pdf)" -->
 ---
 
 TBC
