@@ -1,6 +1,6 @@
 ---
 title: "Research"
-# layout: collection
+layout: single
 permalink: /research/
 # collection: research
 # entries_layout: grid
