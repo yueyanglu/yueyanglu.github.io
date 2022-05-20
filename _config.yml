@@ -79,14 +79,7 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
-# Social Sharing
-twitter:
-  username               : "kbosko3"
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : /assets/images/cross-val-logo-v4.jpg # Open Graph/Twitter default site image
+
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -106,15 +99,15 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:yueyanglu0622@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://yueyanglu.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yueyanglu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/yueyanglu"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/yueyang-lu-ocean"
 
 # Site Footer
 # footer:
