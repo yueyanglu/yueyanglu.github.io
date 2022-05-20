@@ -20,11 +20,11 @@ title                    : "Yueyang Lu"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yueyang Lu"
-description              : "Blogging about my transition into Data Engineering + HOWTOs on Minimal Mistakes Jekyll personal website"
+description              : ""
 url                      : "https://yueyanglu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : 
 repository               : "yueyanglu/yueyanglu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/joel-filipe-thumb-800.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -98,7 +98,7 @@ social:
 # Site Author
 author:
   name             : "Yueyang Lu"
-  avatar           : "/assets/images/myprofile.jpg"
+  avatar           : "/assets/images/myprofile.png"
   bio              : "Ph.D. student in ocean eddy-induced transport"
   location         : "Miami, FL"
   email            :
@@ -226,17 +226,6 @@ whitelist:
   - jekyll-archives
   - jekyll-sitemap
 
-
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
 
 # category_archive:
 #   type: liquid
