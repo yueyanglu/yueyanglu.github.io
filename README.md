@@ -1,1 +1,1 @@
-My personal website built from [k-bosko](https://github.com/k-bosko/k-bosko.github.io) that is based on [minimal-mistakes (https://mmistakes.github.io/minimal-mistakes/), with some details from [dhruvbalwada](https://github.com/dhruvbalwada/dhruvbalwada.github.io).
+My personal website built from [k-bosko](https://github.com/k-bosko/k-bosko.github.io) that is based on [minimal-mistakes] (https://mmistakes.github.io/minimal-mistakes/), with some details from [dhruvbalwada](https://github.com/dhruvbalwada/dhruvbalwada.github.io).
