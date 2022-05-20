@@ -277,6 +277,15 @@ defaults:
       layout: single
       author_profile: true
 
+# _portfolio
+  - scope:
+      path: "_research"
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      
 collections:
   portfolio:
     output: true
