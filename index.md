@@ -2,6 +2,9 @@
 layout: single
 author_profile: true
 title: "Scientific Profile"
+header:
+  image: /assets/images/perputualocean.jpg
+  caption: "[Perpetual Ocean.](https://svs.gsfc.nasa.gov/3827)"
 ---
 
 ### Education
