@@ -10,7 +10,7 @@ permalink: /publications/
 ### Submitted  
 - Properties of the lateral mesoscale eddy-induced transport in a high-resolution ocean model: Beyond the flux-gradient relation  
   **Yueyang Lu**, Igor Kamenkovich, & Pavel Berloff  
-  *Journal of Physical Oceanography* (In revision)
+  *Journal of Physical Oceanography* (accepted)
 
 
 ### Peer Reviewed
