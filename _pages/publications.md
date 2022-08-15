@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-[Google Scholar Profile]()
+[Google Scholar Profile](https://scholar.google.com/schhp?hl=en&as_sdt=0,10)
 
 
 ### Submitted  
