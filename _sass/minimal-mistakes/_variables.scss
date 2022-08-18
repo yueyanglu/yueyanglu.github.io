@@ -13,7 +13,7 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
-$serif: source-serif-pro, serif !default; "PT Serif", Georgia, Times, serif
+$serif: 'Source Serif Pro', serif 
 $sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", sans-serif, "PT Sans Narrow" !default;
 $monospace: "Andale Mono", Monaco, Consolas, "Lucida Console", monospace !default;
@@ -30,9 +30,9 @@ $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 $arial: Arial, sans-serif !default;
 
-$global-font-family: $helvetica, Arial !default;
-$header-font-family: $helvetica, Arial !default;
-$caption-font-family: $helvetica, Arial !default;
+$global-font-family: $serif !default;
+$header-font-family: $sans-serif !default;
+$caption-font-family: $serif !default;
 
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px
