@@ -14,8 +14,9 @@ $indent-var: 1.3em !default;
 
 /* system typefaces */
 $serif: 'Source Serif Pro', serif !default;
-$sans-serif: 'Source Serif Pro', serif, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
-  "Helvetica Neue", "Lucida Grande", sans-serif, "PT Sans Narrow" !default;
+$sans-serif: 'PT Sans Narrow', Oswald, Montserrat, Helvetica, -apple-system,
+  BlinkMacSystemFont, "Roboto", "Segoe UI",
+  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: "Andale Mono", Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
