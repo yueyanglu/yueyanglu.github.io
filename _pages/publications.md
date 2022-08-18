@@ -21,5 +21,6 @@ permalink: /publications/
 0.  [Complexity of Mesoscale Eddy Diffusivity in the Ocean](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL091719)  
     Igor Kamenkovich, Pavel Berloff, Michael Haigh, Luolin Sun, & **Yueyang Lu**  
     *Geophysical Research Letters (2021)*
+    
 {: reversed="reversed"}
 
