@@ -10,9 +10,6 @@ permalink: /publications/
 - Modeling the Ocean Mesoscale Eddy Effects on Tracer Transport  
   **Yueyang Lu** and Igor Kamenkovich  
 
-### Submitted  
-
-
 ### Peer-reviewed
 0.  [Properties of the lateral mesoscale eddy-induced transport in a high-resolution ocean model: Beyond the flux-gradient relation](https://journals.ametsoc.org/view/journals/phoc/phoc-overview.xml)  
     **Yueyang Lu**, Igor Kamenkovich, & Pavel Berloff  
