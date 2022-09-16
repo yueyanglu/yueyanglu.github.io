@@ -14,6 +14,6 @@ I received an undergraduate marine science degree at Ocean University of China i
 ---
 
 ### Research Interests
-My research primarily focuses on how ocean mesoscale eddies influence the tracer distributions and how this effect can be related to large-scale fields. I use theory and idealized and comprehensive numerical models of ocean circulation to tackle these problems.
+My research primarily focuses on how mesoscale eddies affect tracer distributions in the ocean and what is the mechanism of this effect. I use theory and idealized and comprehensive numerical models of ocean circulation to tackle these problems.
 
 I am happy to discuss and collaborate with different minds!
