@@ -8,7 +8,7 @@ header:
 ---
 
 ### Education
-I am a Ph.D. student in Meteorology & Physical Oceanography at the [Rosenstiel School of Marine, Atmospheric and Earth Science](https://www.rsmas.miami.edu/), University of Miami.
+I am a Ph.D. candidate in Meteorology & Physical Oceanography at the [Rosenstiel School of Marine, Atmospheric and Earth Science](https://www.rsmas.miami.edu/), University of Miami.
 I received an undergraduate marine science degree at Ocean University of China in [Qingdao](https://en.wikipedia.org/wiki/Qingdao).
 
 ---
