@@ -9,7 +9,7 @@ header:
 
 ### Education
 I am a Ph.D. candidate in Meteorology & Physical Oceanography at the [Rosenstiel School of Marine, Atmospheric and Earth Science](https://www.rsmas.miami.edu/), University of Miami.
-I received an undergraduate marine science degree at Ocean University of China in [Qingdao](https://en.wikipedia.org/wiki/Qingdao).
+I received an undergraduate marine science degree at Ocean University of China.
 
 ---
 
@@ -18,3 +18,4 @@ My research primarily focuses on how mesoscale eddies affect tracer distribution
 
 I am happy to discuss and collaborate with different minds!
  
+\
