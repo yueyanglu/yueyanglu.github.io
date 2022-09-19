@@ -17,5 +17,3 @@ I received an undergraduate marine science degree at Ocean University of China.
 My research primarily focuses on how mesoscale eddies affect tracer distributions in the ocean and what is the mechanism of this effect. I use theory and idealized and comprehensive numerical models of ocean circulation to tackle these problems.
 
 I am happy to discuss and collaborate with different minds!
- 
-\
