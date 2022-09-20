@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Profile"
+title: "About me"
 header:
   image: /assets/images/perputualocean.jpg
   caption: "[Perpetual Ocean.](https://svs.gsfc.nasa.gov/3827)"
