@@ -11,7 +11,7 @@ permalink: /publications/
   **Yueyang Lu** and Igor Kamenkovich  
 
 ### Peer-reviewed
-0.  [Properties of the lateral mesoscale eddy-induced transport in a high-resolution ocean model: Beyond the flux-gradient relation](https://doi.org/10.1175/JPO-D-22-0108.1)  
+0.  [Properties of the Lateral Mesoscale Eddy-Induced Transport in a High-Resolution Ocean Model: Beyond the Flux–Gradient Relation](https://doi.org/10.1175/JPO-D-22-0108.1)  
     **Yueyang Lu**, Igor Kamenkovich, & Pavel Berloff  
     *Journal of Physical Oceanography (in press)*  
     
