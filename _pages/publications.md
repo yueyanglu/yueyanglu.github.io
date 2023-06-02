@@ -11,11 +11,11 @@ permalink: /publications/
   **Yueyang Lu** and Igor Kamenkovich  
 
 ### Peer-reviewed
-0.  [Properties of the Lateral Mesoscale Eddy-Induced Transport in a High-Resolution Ocean Model: Beyond the Flux–Gradient Relation](https://doi.org/10.1175/JPO-D-22-0108.1)  
+0.  [Properties of the Lateral Mesoscale Eddy-Induced Transport in a High-Resolution Ocean Model: Beyond the Flux–Gradient Relation][/assets/documents/Lu_et_al2022.pdf]  
     **Yueyang Lu**, Igor Kamenkovich, & Pavel Berloff  
     *Journal of Physical Oceanography (2022)*  
     
-0.  [Complexity of Mesoscale Eddy Diffusivity in the Ocean](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL091719)  
+0.  [Complexity of Mesoscale Eddy Diffusivity in the Ocean][/assets/documents/Kamenkovich_et_al2021.pdf]  
     Igor Kamenkovich, Pavel Berloff, Michael Haigh, Luolin Sun, & **Yueyang Lu**  
     *Geophysical Research Letters (2021)*  
     
