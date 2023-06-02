@@ -7,7 +7,7 @@ permalink: /publications/
 [Google Scholar Profile](https://scholar.google.com/schhp?hl=en&as_sdt=0,10)
 
 ### In Preparation  
-0.  [Modeling the Ocean Mesoscale Eddy Effects on Tracer Transport][mail]  
+-  [Modeling the Ocean Mesoscale Eddy Effects on Tracer Transport][mail]  
     **Yueyang Lu** and Igor Kamenkovich  
 
 ### Peer-reviewed
