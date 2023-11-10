@@ -7,7 +7,7 @@ header:
   caption: "[Perpetual Ocean.](https://svs.gsfc.nasa.gov/3827)"
 ---
 
-(I am actively looking for postdoc positions in the general area of Ocean Dynamics/Ocean Modeling. Please feel free to contact me if you have any relevant info. It would be greatly appreciated.)
+(I am actively looking for postdoc positions in the general area of Ocean Dynamics/Ocean Modeling. Please feel free to contact me (yueyang.lu@miami.edu) if you have any relevant info. It would be greatly appreciated.)
 
 ### Education
 I am a Ph.D. candidate in Meteorology & Physical Oceanography at the [Rosenstiel School of Marine, Atmospheric and Earth Science](https://www.rsmas.miami.edu/), University of Miami.
