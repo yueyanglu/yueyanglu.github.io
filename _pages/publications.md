@@ -7,7 +7,7 @@ permalink: /publications/
 [Google Scholar Profile](https://scholar.google.com/schhp?hl=en&as_sdt=0,10)
 
 ### In Preparation  
--  [Modeling the Ocean Mesoscale Eddy Effects on Tracer Transport][3]  
+-  [Mesoscale Eddy-Induced Sharpening of Oceanic Tracer Fronts and its Parameterization][3]  
     **Yueyang Lu** and Igor Kamenkovich  
 
 ### Peer-reviewed
