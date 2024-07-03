@@ -9,7 +9,7 @@ header:
 
 
 ### Education
-I am a postdoctoral researcher at the [Center for Ocean-Atmospheric Prediction Studies at Florida State University](https://www.coaps.fsu.edu/). I completed my Ph.D. in Meteorology & Physical Oceanography at the [Rosenstiel School of Marine, Atmospheric and Earth Science](https://www.rsmas.miami.edu/), University of Miami.
+I am a postdoctoral researcher at the [Center for Ocean-Atmospheric Prediction Studies](https://www.coaps.fsu.edu/), Florida State University. I completed my Ph.D. in Meteorology & Physical Oceanography at the [Rosenstiel School of Marine, Atmospheric and Earth Science](https://www.rsmas.miami.edu/), University of Miami.
 
 ---
 
