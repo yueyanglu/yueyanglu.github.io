@@ -9,8 +9,7 @@ header:
 
 
 ### Education
-I completed my Ph.D. in Meteorology & Physical Oceanography at the [Rosenstiel School of Marine, Atmospheric and Earth Science](https://www.rsmas.miami.edu/), University of Miami.
-I received an undergraduate marine science degree at Ocean University of China.
+I am a postdoctoral researcher at the [Center for Ocean-Atmospheric Prediction Studies at Florida State University](https://www.coaps.fsu.edu/). I completed my Ph.D. in Meteorology & Physical Oceanography at the [Rosenstiel School of Marine, Atmospheric and Earth Science](https://www.rsmas.miami.edu/), University of Miami.
 
 ---
 
