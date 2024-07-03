@@ -7,6 +7,8 @@ permalink: /publications/
 [Google Scholar Profile](https://scholar.google.com/schhp?hl=en&as_sdt=0,10)
 
 ### In Preparation  
+-  [Can Eulerian Eddy Tracer Mixing be Estimated from Lagrangian Simulation?]  
+    **Yueyang Lu** and Igor Kamenkovich  
 -  [Mesoscale Eddy-Induced Sharpening of Oceanic Tracer Fronts and its Parameterization][3]  
     **Yueyang Lu** and Igor Kamenkovich  
 
