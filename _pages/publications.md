@@ -13,7 +13,7 @@ permalink: /publications/
     **Yueyang Lu** et al.
 
 ### Peer-reviewed
-0.  [Mesoscale Eddy-Induced Sharpening of Oceanic Tracer Fronts and its Parameterization][3]  
+0.  [Mesoscale Eddy-Induced Sharpening of Oceanic Tracer Fronts][3]  
     **Yueyang Lu** and Igor Kamenkovich  
     *Journal of Advances in Modeling Earth Systems (2025)*
     
