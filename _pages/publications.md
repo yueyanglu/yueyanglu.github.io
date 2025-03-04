@@ -28,6 +28,6 @@ permalink: /publications/
 {: reversed="reversed"}
 
 [mail]: mailto:yl24q@fsu.edu
-[3]: /assets/documents/eddy_front.pdf
+[3]: /assets/documents/Lu_Kamenkovich2025.pdf
 [2]: /assets/documents/Lu_et_al2022.pdf
 [1]: /assets/documents/Kamenkovich_et_al2021.pdf
