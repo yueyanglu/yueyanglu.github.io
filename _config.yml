@@ -93,12 +93,12 @@ author:
   name             : "Yueyang Lu"
   avatar           : "/assets/images/myprofile.png"
   bio              : "Physical oceanographer"
-  location         : "Miami, FL"
+  location         : "Tallahassee, FL"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:yueyang.lu@miami.edu"
+      url: "mailto:yl24q@fsu.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yueyanglu"
