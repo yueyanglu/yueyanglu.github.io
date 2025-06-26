@@ -14,6 +14,6 @@ I am a postdoctoral researcher at the [Center for Ocean-Atmospheric Prediction S
 ---
 
 ### Research Interests
-My research primarily focuses on how mesoscale eddies affect tracer distributions in the ocean and what is the mechanism of this effect. I use theory and idealized and comprehensive numerical models of ocean circulation to tackle these problems.
+My current research focuses on how the ocean dynamics influences the regional sea level changes on the Northwestern European shelf. I am also interested in how mesoscale eddies affect tracer distributions in the ocean and what is the mechanism of this effect. I use theory and idealized and comprehensive numerical models of ocean circulation to tackle these problems.
 
 I am always happy to discuss and collaborate with different minds!
