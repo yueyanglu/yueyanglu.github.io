@@ -18,7 +18,7 @@ TBC
 </div>
 TBC
 
-## Estimate of Eulerian eddy diffusivity from Lagrangian particle trajectories
+## Estimate Eulerian eddy mixing (rate) from Lagrangian particles
 <div style="width:350px; float: left">
 
 </div>
