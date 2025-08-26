@@ -18,6 +18,12 @@ TBC
 </div>
 TBC
 
+## Estimate of Eulerian eddy diffusivity from Lagrangian particle trajectories
+<div style="width:350px; float: left">
+
+</div>
+TBC
+
 ##  Parameterization of eddy forcing using machine learning 
 <div style="width:350px; float: right">
 
