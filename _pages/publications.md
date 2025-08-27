@@ -7,7 +7,7 @@ permalink: /publications/
 [Google Scholar Profile](https://scholar.google.com/schhp?hl=en&as_sdt=0,10)
 
 ### In Preparation  
--  Can Eulerian Eddy Tracer Mixing be Estimated from Lagrangian Simulation? ([Preprint][10.22541/essoar.175611164.43972385/v1]) \
+-  Can Eulerian Eddy Tracer Mixing be Estimated from Lagrangian Simulation? ([Preprint](10.22541/essoar.175611164.43972385/v1)) \
     **Yueyang Lu** and Igor Kamenkovich  
 -  Sea Level Variability over the Northwest European Shelf (Preprint available upon request) \
     **Yueyang Lu** et al.
