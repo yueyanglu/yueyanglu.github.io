@@ -9,17 +9,22 @@ My overall interests are in the ocean large-scale and mesoscale dynamics and the
 ## Sea level change and its drivers
 <div style="width:350px; float: right">
 
-</div>
 TBC
+
+</div>
+
+---
 
 ## Eddy-induced advection
 <div style="width:350px; float: left">
-
-</div>
 TBC
+</div>
+
+
+---
 
 ## Estimate Eulerian eddy mixing (rate) from Lagrangian particles
-  
+
 <div style="max-width:960px; margin:auto;">
 
   <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:12px;">
@@ -37,6 +42,6 @@ TBC
 
 ##  Parameterization of eddy forcing using machine learning 
 <div style="width:350px; float: right">
-
-</div>
 TBC
+</div>
+
