@@ -13,15 +13,10 @@ TBC
 
 </div>
 
----
-
 ## Eddy-induced advection
 <div style="width:350px; float: left">
 TBC
 </div>
-
-
----
 
 ## Estimate Eulerian eddy mixing (rate) from Lagrangian particles
 
@@ -37,8 +32,6 @@ TBC
   </div>
 
 </div>
-
----
 
 ##  Parameterization of eddy forcing using machine learning 
 <div style="width:350px; float: right">
