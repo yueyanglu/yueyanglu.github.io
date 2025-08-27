@@ -21,7 +21,25 @@ TBC
 ## Estimate Eulerian eddy mixing (rate) from Lagrangian particles
 <div style="width:350px; float: left">
   
-<iframe src="https://player.vimeo.com/video/1113425123?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Particle and tracer evolutions"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Vimeo Video</title>
+</head>
+<body>
+  <h1>Welcome to my site</h1>
+  <p>Here’s my Vimeo video:</p>
+
+  <iframe src="https://player.vimeo.com/video/1113425123" 
+      width="640" height="360" 
+      frameborder="0" 
+      allow="autoplay; fullscreen; picture-in-picture" 
+      allowfullscreen>
+  </iframe>
+</body>
+</html>
+
 
 ##  Parameterization of eddy forcing using machine learning 
 <div style="width:350px; float: right">
