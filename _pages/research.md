@@ -14,7 +14,7 @@ TBC
 
 ## Eddy-induced advection
 
-TBC
+image: /assets/images/eddyfront.jpg
 
 ---
 
