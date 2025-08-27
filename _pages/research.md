@@ -49,6 +49,7 @@ TBC
   </iframe>
 </div>
 
+</div>
 
 ##  Parameterization of eddy forcing using machine learning 
 <div style="width:350px; float: right">
