@@ -14,7 +14,7 @@ TBC
 
 ## Eddy-induced advection
 
-<img src="/assets/images/eddyfront.jpg" alt="Eddy-induced frontogenesis" width="600px">
+<img src="assets/images/eddyfront.jpg" alt="Eddy-induced frontogenesis" width="600px">
 
 
 ---
