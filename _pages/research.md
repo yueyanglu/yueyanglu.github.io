@@ -19,19 +19,21 @@ TBC
 TBC
 
 ## Estimate Eulerian eddy mixing (rate) from Lagrangian particles
-<div style="width:350px; float: left">
   
-<div style="width:960px; max-width:100%; margin:auto;">
-  <div style="position:relative; padding-bottom:56.25%; height:0;">
-    <iframe src="https://player.vimeo.com/video/1113425123"
-        style="position:absolute; top:0; left:0; width:100%; height:100%;"
-        frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
-        allowfullscreen>
+<div style="max-width:960px; margin:auto;">
+
+  <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:12px;">
+    <iframe 
+      src="https://player.vimeo.com/video/1113425123?title=0&byline=0&portrait=0"
+      style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
+      allow="autoplay; fullscreen; picture-in-picture"
+      allowfullscreen>
     </iframe>
   </div>
-</div>
 
 </div>
+
+---
 
 ##  Parameterization of eddy forcing using machine learning 
 <div style="width:350px; float: right">
