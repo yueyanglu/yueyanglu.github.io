@@ -21,32 +21,14 @@ TBC
 ## Estimate Eulerian eddy mixing (rate) from Lagrangian particles
 <div style="width:350px; float: left">
   
-<style>
-  .video-container {
-    position: relative;
-    padding-bottom: 56.25%; /* 16:9 aspect ratio */
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-    background: #000;
-    border-radius: 12px; /* optional */
-  }
-  .video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border: 0;
-  }
-</style>
-
-<div class="video-container">
-  <iframe 
-    src="https://player.vimeo.com/video/1113425123" 
-    allow="autoplay; fullscreen; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
+<div style="width:960px; max-width:100%; margin:auto;">
+  <div style="position:relative; padding-bottom:56.25%; height:0;">
+    <iframe src="https://player.vimeo.com/video/1113425123"
+        style="position:absolute; top:0; left:0; width:100%; height:100%;"
+        frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+        allowfullscreen>
+    </iframe>
+  </div>
 </div>
 
 </div>
