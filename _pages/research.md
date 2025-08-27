@@ -8,13 +8,13 @@ My overall interests are in the ocean large-scale and mesoscale dynamics and the
 
 ## Sea level change and its drivers
 
-<img src="../assets/images/sealevel.png" alt="Sea level" width="500px">
+<img src="../assets/images/sealevel.png" alt="Sea level" width="400px">
 
 ---
 
 ## Eddy-induced advection
 
-<img src="../assets/images/eddyfront.png" alt="Eddy-induced frontogenesis" width="500px">
+<img src="../assets/images/eddyfront.png" alt="Eddy-induced frontogenesis" width="400px">
 
 
 ---
