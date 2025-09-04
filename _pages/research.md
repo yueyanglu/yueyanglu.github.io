@@ -12,10 +12,14 @@ My overall interests are in the ocean large-scale and mesoscale dynamics and the
 
 ---
 
-## Eddy-induced advection
+## Generalized eddy-induced advection: its role in dispersion and frontogenesis
 
 The eddy-induced advection plays an important role in the generation of filaments and fronts and the enhancement of material dispersion and mixing.
 
+Eddy-induced material dispersion represented by the generalized advection:
+
+
+Eddy-induced frontogenesis described by the advection:
 <img src="../assets/images/eddyfront.png" alt="Eddy-induced frontogenesis" width="400px">
 
 
