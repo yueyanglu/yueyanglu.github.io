@@ -19,7 +19,7 @@ The eddy-induced advection plays an important role in the generation of filament
 Eddy-induced material dispersion represented by the generalized advection:
 
 
-Eddy-induced frontogenesis described by the advection:
+Mesoscale eddies act to sharpen the large-scale front by advecting (squeezing) tracer contours towards each other:
 
 <img src="../assets/images/eddyfront.png" alt="Eddy-induced frontogenesis" width="400px">
 
