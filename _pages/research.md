@@ -16,9 +16,9 @@ My overall interests are in the ocean large-scale and mesoscale dynamics and the
 
 The eddy-induced advection plays an important role in the generation of filaments and fronts and the enhancement of material dispersion and mixing.
 
- - Eddy-induced material dispersion represented by the generalized advection:
+ - Eddy-induced material dispersion is accurately represented by the generalized advection:
 
-<img src="../assets/images/dispersion" alt="Eddy-induced dispersion" width="400px">
+<img src="../assets/images/dispersion.png" alt="Eddy-induced dispersion" width="400px">
 
 
 - Mesoscale eddies sharpen the large-scale front by advecting (squeezing) tracer contours towards each other:
