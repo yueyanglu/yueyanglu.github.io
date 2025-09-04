@@ -6,7 +6,7 @@ permalink: /research/
 
 My overall interests are in the ocean large-scale and mesoscale dynamics and their role in climate, using numerical simulations and a variety of advanced analytical methods. I have experience using numerical simulations for studies from dynamics and eddy-induced mixing to regional sea-level variations.
 
-## Sea level change and its drivers
+## Sea level change
 
 Preprint can be found at 
 
@@ -14,7 +14,7 @@ Preprint can be found at
 
 ---
 
-## Generalized eddy-induced advection: its role in dispersion and frontogenesis
+## Generalized eddy-induced advection
 
 The eddy-induced advection plays an important role in the generation of filaments and fronts and the enhancement of material dispersion and mixing.
 
@@ -31,7 +31,7 @@ The eddy-induced advection plays an important role in the generation of filament
 
 ---
 
-## Estimate Eulerian eddy mixing (rate) from Lagrangian particles
+## Bridging Eulerian eddy diffusivity (mixing rate) and Lagrangian particles
 
 Preprint can be found at [Lu et al. (preprint)](https://doi.org/10.22541/essoar.175611164.43972385/v1).
 
