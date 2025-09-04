@@ -21,7 +21,7 @@ The eddy-induced advection plays an important role in the generation of filament
 <img src="../assets/images/dispersion.png" alt="Eddy-induced dispersion" width="400px">
 
 
-- Mesoscale eddies sharpen the large-scale front by advecting (squeezing) tracer contours towards each other:
+- Mesoscale eddies sharpen the large-scale front by advecting (squeezing) tracer contours towards each other ([Lu and Kamenkovich, 2025][/assets/documents/Lu_Kamenkovich2025.pdf]):
 
 <img src="../assets/images/eddyfront.png" alt="Eddy-induced frontogenesis" width="400px">
 
