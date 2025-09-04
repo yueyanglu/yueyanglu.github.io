@@ -20,6 +20,7 @@ Eddy-induced material dispersion represented by the generalized advection:
 
 
 Eddy-induced frontogenesis described by the advection:
+
 <img src="../assets/images/eddyfront.png" alt="Eddy-induced frontogenesis" width="400px">
 
 
