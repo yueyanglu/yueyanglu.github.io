@@ -11,7 +11,7 @@ permalink: /publications/
     **Yueyang Lu**, Igor Kamenkovich & Pavel Berloff  
 -  Sea Level Variability over the Northwest European Shelf across Different Timescales
  ([Preprint](https://doi.org/10.22541/essoar.176071672.25436205/v1)) \
-    **Yueyang Lu** et al.
+    **Yueyang Lu**, Xiaobiao Xu & Eric P. Chassignet
 
 ### Peer-reviewed
 0.  [Mesoscale Eddy-Induced Sharpening of Oceanic Tracer Fronts][3]  
