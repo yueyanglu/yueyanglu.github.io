@@ -9,7 +9,8 @@ permalink: /publications/
 ### In Preparation  
 -  Can Eulerian Eddy Tracer Mixing be Estimated from Lagrangian Simulation? ([Preprint](https://doi.org/10.22541/essoar.175611164.43972385/v1)) \
     **Yueyang Lu**, Igor Kamenkovich & Pavel Berloff  
--  Sea Level Variability over the Northwest European Shelf (Preprint available upon request) \
+-  Sea Level Variability over the Northwest European Shelf across Different Timescales
+ ([Preprint](https://doi.org/10.22541/essoar.176071672.25436205/v1)) \
     **Yueyang Lu** et al.
 
 ### Peer-reviewed
