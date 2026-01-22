@@ -7,6 +7,10 @@ permalink: /publications/
 [Google Scholar Profile](https://scholar.google.com/schhp?hl=en&as_sdt=0,10)
 
 ### In Preparation  
+-  What drives the temperature variability in the Gulf of Maine? \
+    **Yueyang Lu**, Xiaobiao Xu & Eric P. Chassignet
+   
+### Submitted
 -  Can Eulerian Eddy Tracer Mixing be Estimated from Lagrangian Simulation? ([Preprint](https://doi.org/10.22541/essoar.175611164.43972385/v1)) \
     **Yueyang Lu**, Igor Kamenkovich & Pavel Berloff  
 -  Sea Level Variability over the Northwest European Shelf across Different Timescales
