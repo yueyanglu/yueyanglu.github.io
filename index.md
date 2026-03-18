@@ -9,11 +9,9 @@ header:
 
 
 ### Education
-I am a postdoctoral researcher at the [Center for Ocean-Atmospheric Prediction Studies](https://www.coaps.fsu.edu/), Florida State University. I completed my Ph.D. in Meteorology & Physical Oceanography at the [Rosenstiel School of Marine, Atmospheric and Earth Science](https://www.rsmas.miami.edu/), University of Miami.
+I am a postdoctoral associate working with Dr. [Gaël Forget](https://gaelforget.net/) at MIT. Prior to this, I was a postdoc at the [Center for Ocean-Atmospheric Prediction Studies](https://www.coaps.fsu.edu/), Florida State University. I completed my Ph.D. in Meteorology & Physical Oceanography at the [Rosenstiel School of Marine, Atmospheric and Earth Science](https://www.rsmas.miami.edu/), University of Miami.
 
 ---
 
 ### Research Interests
-My current research focuses on how the ocean dynamics influences the regional sea level changes on the Northwestern European shelf. I am also interested in how mesoscale eddies affect tracer distributions in the ocean and what is the mechanism of this effect. I use theory and idealized and comprehensive numerical models of ocean circulation to tackle these problems.
-
-I am always happy to discuss and collaborate with different minds!
+My research explores ocean dynamics from small scales up to the mesoscale, with a focus on vertical mixing and transport by mesoscale eddies. I am also interested in changes on continental shelves, including sea-level variability on the European shelf and ocean warming in the Gulf of Maine. I combine both theory with both idealized and comprehensive numerical models of ocean circulation to tackle these problems. I am always happy to discuss and collaborate with different minds!
