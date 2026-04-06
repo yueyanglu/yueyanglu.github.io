@@ -11,13 +11,15 @@ permalink: /publications/
     **Yueyang Lu**, Xiaobiao Xu & Eric P. Chassignet
    
 ### Submitted
--  Can Eulerian Eddy Tracer Mixing be Estimated from Lagrangian Simulation? ([Preprint](https://doi.org/10.22541/essoar.175611164.43972385/v1)) \
-    **Yueyang Lu**, Igor Kamenkovich & Pavel Berloff  
 -  Sea Level Variability over the Northwest European Shelf across Different Timescales
  ([Preprint](https://doi.org/10.22541/essoar.176071672.25436205/v1)) \
     **Yueyang Lu**, Xiaobiao Xu & Eric P. Chassignet
 
 ### Peer-reviewed
+0.  [Can Eulerian Eddy Tracer Mixing be Estimated from Lagrangian Simulation?][4]  
+    **Yueyang Lu**, Igor Kamenkovich & Pavel Berloff  
+    *Journal of Advances in Modeling Earth Systems (2026)*
+   
 0.  [Mesoscale Eddy-Induced Sharpening of Oceanic Tracer Fronts][3]  
     **Yueyang Lu** and Igor Kamenkovich  
     *Journal of Advances in Modeling Earth Systems (2025)*
@@ -32,7 +34,8 @@ permalink: /publications/
     
 {: reversed="reversed"}
 
-[mail]: mailto:yl24q@fsu.edu
+[mail]: mailto:ylu06@mit.edu
+[4]: /assets/documents/Lu_Kamenkovich2025.pdf
 [3]: /assets/documents/Lu_Kamenkovich2025.pdf
 [2]: /assets/documents/Lu_et_al2022.pdf
 [1]: /assets/documents/Kamenkovich_et_al2021.pdf
