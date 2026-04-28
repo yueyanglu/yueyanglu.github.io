@@ -35,7 +35,7 @@ permalink: /publications/
 {: reversed="reversed"}
 
 [mail]: mailto:ylu06@mit.edu
-[4]: /assets/documents/Lu_Kamenkovich2025.pdf
+[4]: /assets/documents/Lu_etal_2026.pdf
 [3]: /assets/documents/Lu_Kamenkovich2025.pdf
 [2]: /assets/documents/Lu_et_al2022.pdf
 [1]: /assets/documents/Kamenkovich_et_al2021.pdf
