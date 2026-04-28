@@ -16,7 +16,7 @@ permalink: /publications/
     **Yueyang Lu**, Xiaobiao Xu & Eric P. Chassignet
 
 ### Peer-reviewed
-0.  [Can Eulerian Eddy Tracer Mixing be Estimated from Lagrangian Simulation?][4]  
+0.  [Can Eulerian Eddy Diffusivity Be Inferred From Lagrangian Trajectories?][4]  
     **Yueyang Lu**, Igor Kamenkovich & Pavel Berloff  
     *Journal of Advances in Modeling Earth Systems (2026)*
    
