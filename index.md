@@ -9,7 +9,7 @@ header:
 
 
 ### Education
-I am a postdoctoral associate working with Dr. [Gaël Forget](https://gaelforget.net/) at MIT. Prior to this, I was a postdoc at the [Center for Ocean-Atmospheric Prediction Studies](https://www.coaps.fsu.edu/), Florida State University. I completed my Ph.D. in Meteorology & Physical Oceanography at the [Rosenstiel School of Marine, Atmospheric and Earth Science](https://www.rsmas.miami.edu/), University of Miami, advised by Prof. [Igor Kamenkovich](https://people.miami.edu/profile/4925e871dc438f9f0f91e99acacc9455).
+I am a postdoctoral associate working with Dr. [Gaël Forget](https://gaelforget.net/) at MIT. Prior to this, I was a postdoc at the [Center for Ocean-Atmospheric Prediction Studies](https://www.coaps.fsu.edu/), Florida State University. I completed my Ph.D. in Meteorology & Physical Oceanography at the [Rosenstiel School of Marine, Atmospheric and Earth Science](https://www.rsmas.miami.edu/), University of Miami.
 
 ---
 
