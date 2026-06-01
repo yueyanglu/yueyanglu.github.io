@@ -33,7 +33,7 @@ The eddy-induced advection plays an important role in the generation of filament
 
 ## Bridging Eulerian eddy diffusivity (mixing rate) and Lagrangian particles
 
-Preprint can be found at [Lu et al. (preprint)](https://doi.org/10.22541/essoar.175611164.43972385/v1).
+Preprint can be found at [Lu et al., 2026](https://doi.org/10.1029/2025MS005428).
 
 <div style="max-width:960px; margin:auto;">
 
