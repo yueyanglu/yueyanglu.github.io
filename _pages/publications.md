@@ -9,13 +9,13 @@ permalink: /publications/
 ### In Preparation  
 -  What drives the temperature variability in the Gulf of Maine? \
     **Yueyang Lu**, Xiaobiao Xu & Eric P. Chassignet
-   
-### Submitted
--  Sea Level Variability over the Northwest European Shelf across Different Timescales
- ([Preprint](https://doi.org/10.22541/essoar.176071672.25436205/v1)) \
-    **Yueyang Lu**, Xiaobiao Xu & Eric P. Chassignet
+    
 
 ### Peer-reviewed
+0.  [Sea Level Variability over the Northwest European Shelf across Different Timescales][5]  
+    **Yueyang Lu**, Xiaobiao Xu & Eric P. Chassignet  
+    *Continental Shelf Research (2026)*
+    
 0.  [Can Eulerian Eddy Diffusivity Be Inferred From Lagrangian Trajectories?][4]  
     **Yueyang Lu**, Igor Kamenkovich & Pavel Berloff  
     *Journal of Advances in Modeling Earth Systems (2026)*
@@ -35,6 +35,7 @@ permalink: /publications/
 {: reversed="reversed"}
 
 [mail]: mailto:ylu06@mit.edu
+[5]: https://doi.org/10.22541/essoar.176071672.25436205/v1
 [4]: /assets/documents/Lu_etal_2026.pdf
 [3]: /assets/documents/Lu_Kamenkovich2025.pdf
 [2]: /assets/documents/Lu_et_al2022.pdf
