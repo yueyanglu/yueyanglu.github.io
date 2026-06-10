@@ -7,6 +7,9 @@ permalink: /publications/
 [Google Scholar Profile](https://scholar.google.com/schhp?hl=en&as_sdt=0,10)
 
 ### In Preparation  
+-  A Global Characterization of Precipitation Peak Structure \
+   Zijie Zhao, **Yueyang Lu** & Andréa S. Taschetto
+   
 -  What drives the temperature variability in the Gulf of Maine? \
     **Yueyang Lu**, Xiaobiao Xu & Eric P. Chassignet
     
@@ -21,15 +24,15 @@ permalink: /publications/
     *Journal of Advances in Modeling Earth Systems (2026)*
    
 0.  [Mesoscale Eddy-Induced Sharpening of Oceanic Tracer Fronts][3]  
-    **Yueyang Lu** and Igor Kamenkovich  
+    **Yueyang Lu** & Igor Kamenkovich  
     *Journal of Advances in Modeling Earth Systems (2025)*
     
 0.  [Properties of the Lateral Mesoscale Eddy-Induced Transport in a High-Resolution Ocean Model: Beyond the Flux–Gradient Relation][2]  
-    **Yueyang Lu**, Igor Kamenkovich, & Pavel Berloff  
+    **Yueyang Lu**, Igor Kamenkovich & Pavel Berloff  
     *Journal of Physical Oceanography (2022)*  
     
 0.  [Complexity of Mesoscale Eddy Diffusivity in the Ocean][1]  
-    Igor Kamenkovich, Pavel Berloff, Michael Haigh, Luolin Sun, & **Yueyang Lu**  
+    Igor Kamenkovich, Pavel Berloff, Michael Haigh, Luolin Sun & **Yueyang Lu**  
     *Geophysical Research Letters (2021)*  
     
 {: reversed="reversed"}
