@@ -38,7 +38,7 @@ permalink: /publications/
 {: reversed="reversed"}
 
 [mail]: mailto:ylu06@mit.edu
-[5]: https://doi.org/10.22541/essoar.176071672.25436205/v1
+[5]: https://doi.org/10.1016/j.csr.2026.105719
 [4]: /assets/documents/Lu_etal_2026.pdf
 [3]: /assets/documents/Lu_Kamenkovich2025.pdf
 [2]: /assets/documents/Lu_et_al2022.pdf
