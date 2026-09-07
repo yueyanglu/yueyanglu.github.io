@@ -7,14 +7,16 @@ permalink: /publications/
 [Google Scholar Profile](https://scholar.google.com/schhp?hl=en&as_sdt=0,10)
 
 ### In Preparation  
--  A Global Characterization of Precipitation Peak Structure \
-   Zijie Zhao, **Yueyang Lu** & Andréa S. Taschetto
    
 -  What drives the temperature variability in the Gulf of Maine? \
     **Yueyang Lu**, Xiaobiao Xu & Eric P. Chassignet
     
 
 ### Peer-reviewed
+0.  [Global Characterization of Precipitation Peaks in the Seasonal Cycle][6]  
+    Zijie Zhao, **Yueyang Lu** & Andréa S. Taschetto  
+    *Geophysical Research Letters (2026)*
+
 0.  [Sea Level Variability over the Northwest European Shelf across Different Timescales][5]  
     **Yueyang Lu**, Xiaobiao Xu & Eric P. Chassignet  
     *Continental Shelf Research (2026)*
@@ -38,6 +40,7 @@ permalink: /publications/
 {: reversed="reversed"}
 
 [mail]: mailto:ylu06@mit.edu
+[6]: https://agupubs.onlinelibrary.wiley.com/journal/19448007?gad_campaignid=20631722826&gad_source=1&gbraid=0AAAAADoE1alPxC2mX33qdALadjlUa32Xi&gclid=CjwKCAjwwfnUBhAtEiwAfQpAYqasSJfDmh0aqamE8Lb6IHTh94V1K22pPe5P4dL-k1JoMxna4GcTnxoC3aYQAvD_BwE&utm_campaign=R3MR425&utm_content=PMAX&utm_medium=cpc&utm_source=google
 [5]: https://doi.org/10.1016/j.csr.2026.105719
 [4]: /assets/documents/Lu_etal_2026.pdf
 [3]: /assets/documents/Lu_Kamenkovich2025.pdf
