@@ -41,7 +41,7 @@ permalink: /publications/
 
 [mail]: mailto:ylu06@mit.edu
 [6]: https://agupubs.onlinelibrary.wiley.com/journal/19448007?gad_campaignid=20631722826&gad_source=1&gbraid=0AAAAADoE1alPxC2mX33qdALadjlUa32Xi&gclid=CjwKCAjwwfnUBhAtEiwAfQpAYqasSJfDmh0aqamE8Lb6IHTh94V1K22pPe5P4dL-k1JoMxna4GcTnxoC3aYQAvD_BwE&utm_campaign=R3MR425&utm_content=PMAX&utm_medium=cpc&utm_source=google
-[5]: https://doi.org/10.1016/j.csr.2026.105719
+[5]: /assets/documents/Lu_etal_2026_CSR.pdf
 [4]: /assets/documents/Lu_etal_2026.pdf
 [3]: /assets/documents/Lu_Kamenkovich2025.pdf
 [2]: /assets/documents/Lu_et_al2022.pdf
